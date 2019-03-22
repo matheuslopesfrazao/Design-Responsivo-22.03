@@ -1,7 +1,9 @@
 @media only screen and (min-width: 1200px) {
-#menu {
-	
+
+#mainnavbuttons {
+	margin: 0 auto 0 auto;
 }
+
 }
 
 
@@ -14,7 +16,7 @@
 
 #mainnav {
 	float: none;
-	position: absolute;
+	position: relative;
 
 }
 
@@ -47,9 +49,9 @@ body{
 }
 
 #mainnav {
-	margin-left: 40px;
 	float: none;
-	width: 100%;
+	width: 96%;
+	margin-bottom: -65px;
 }
 
 #menu {
